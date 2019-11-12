@@ -8,6 +8,8 @@ https://ondras.zarovi.cz/sql/demo/
 
 https://my.vertabelo.com/model/BOvIPyea5SFxc3VWJ8TAlYArM2dInrCC (paid)
 
+EF Core https://msawczyn.github.io/EFDesigner/
+
 # Model visualizer
 EF Core https://db-diagrams.firebaseapp.com/demo
  
